@@ -26,8 +26,5 @@
   <a href = "mailto:chparatrabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https:/https://www.linkedin.com/in/cristian-henriques-31b607289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.tiktok.com/@chdacoletinha" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
-
- ![Snake animation](https://github.com/devcristianhr/devcristianhr/blob/output/github-contribution-grid-snake.svg)
-
  </div>
  
