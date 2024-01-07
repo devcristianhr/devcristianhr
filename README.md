@@ -2,7 +2,7 @@
 
 🎓 Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas  
 💻 Foco em desenvolvimento fullstack  
-✨ Atualmente aprofundando conhecimentos em JavaScript e Bootstrap 
+✨ Atualmente aprofundando conhecimentos em JavaScript e Bootstrap<br>
 🌍 Em constante aprendizado da língua inglesa 
 
  <div>
