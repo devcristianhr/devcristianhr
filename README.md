@@ -1,7 +1,7 @@
 ## Olá, eu sou o Cristian! 👋
 
 🎓 Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas  
-💻 Foco em desenvolvimento fullstack  
+💻 Foco em desenvolvimento Front-End 
 ✨ Atualmente aprofundando conhecimentos em JavaScript e Bootstrap<br>
 🌍 Em constante aprendizado da língua inglesa 
 
